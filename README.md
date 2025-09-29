@@ -18,6 +18,7 @@
 ### [Data Collection] <br>
 
 ### [Data Preprocessing]
+<img width="100%" alt="Image" src="https://github.com/user-attachments/assets/62b14a93-a151-4506-9932-171b5f187309">
 
 ---
 
