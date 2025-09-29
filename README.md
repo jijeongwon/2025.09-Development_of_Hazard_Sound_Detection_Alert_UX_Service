@@ -14,6 +14,13 @@
 
 ---
 
+## 2. Dataset
+### [Data Collection] <br>
+
+### [Data Preprocessing]
+
+---
+
 ## 2. Model
 ### [Model 1️⃣ LightWeighted CNN]
 <img width="1131" height="447" alt="Image" src="https://github.com/user-attachments/assets/5523909d-82dd-4719-a323-06fa887dd667" />
