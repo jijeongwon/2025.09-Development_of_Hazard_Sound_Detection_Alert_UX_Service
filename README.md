@@ -8,12 +8,15 @@
 
 ---
 
+## 1. FlowChart
 ### [FlowChart] <br>
 <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/7626d0c9-5efb-4db4-87e2-c0723b76425b" />
 
 ---
 
+## 2. Model
 ### [Model 1️⃣ LightWeighted CNN]
 <img width="1131" height="447" alt="Image" src="https://github.com/user-attachments/assets/5523909d-82dd-4719-a323-06fa887dd667" />
 
 ### [Model 2️⃣ RCNN]
+<img width="1136" height="447" alt="Image" src="https://github.com/user-attachments/assets/e2d51011-e38c-4ed0-ad4c-79791af64acb" />
