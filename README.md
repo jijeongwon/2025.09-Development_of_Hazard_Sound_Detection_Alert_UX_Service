@@ -15,12 +15,17 @@
 ---
 
 ## 2. Dataset
-### [Data Collection] <br>
+### 2.1. Data Collection 
+* Danger Sound Collecting
 <img width="100%" height="550" alt="Image" src="https://github.com/user-attachments/assets/e76541b6-5cb9-44f5-8d34-f3c9cf341bc8" />
-<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/acad8efc-725b-419c-bb3f-1cfd2f2b713f" />
+<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/acad8efc-725b-419c-bb3f-1cfd2f2b713f" /> <br>
+
+<br>
+
+* Noise Sound Collecting
 
 
-### [Data Preprocessing]
+### 2.2. Data Preprocessing
 <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/62b14a93-a151-4506-9932-171b5f187309">
 
 ---
