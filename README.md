@@ -16,6 +16,9 @@
 
 ## 2. Dataset
 ### [Data Collection] <br>
+<img width="800" height="400" alt="Image" src="https://github.com/user-attachments/assets/9481ad9b-d465-4174-b755-c5760753da29" />
+<img width="467" height="432" alt="image" src="https://github.com/user-attachments/assets/acad8efc-725b-419c-bb3f-1cfd2f2b713f" />
+
 
 ### [Data Preprocessing]
 <img width="100%" alt="Image" src="https://github.com/user-attachments/assets/62b14a93-a151-4506-9932-171b5f187309">
