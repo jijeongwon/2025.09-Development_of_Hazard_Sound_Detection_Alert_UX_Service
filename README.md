@@ -16,13 +16,14 @@
 
 ## 2. Dataset
 ### 2.1. Data Collection 
-* Danger Sound Collecting
+* **Danger Sound Collecting - UrbanSound8K**
 <img width="100%" height="550" alt="Image" src="https://github.com/user-attachments/assets/e76541b6-5cb9-44f5-8d34-f3c9cf341bc8" />
 <img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/acad8efc-725b-419c-bb3f-1cfd2f2b713f" /> <br>
 
 <br>
 
-* Noise Sound Collecting
+* **Noise Sound Collecting - SONYC_UST_V2**
+<img width="1063" height="410" alt="Image" src="https://github.com/user-attachments/assets/b543b518-90f7-41d7-a098-2acc29c6b895" />
 
 
 ### 2.2. Data Preprocessing
